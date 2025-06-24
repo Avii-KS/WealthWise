@@ -16,5 +16,4 @@ const nextConfig = {
   },
 };
 
-import { withNetlify } from "@netlify/next";
-export default withNetlify(nextConfig);
+export default nextConfig;
