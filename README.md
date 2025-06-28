@@ -1,25 +1,83 @@
-# Full Stack AI Finance Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
+# 💸 WealthWise
 
-## https://youtu.be/egS6fnZAdzk
+> **Manage Your Finances with Intelligence**  
+> An AI-powered financial management platform that helps you track, analyze, and optimize your spending with real-time insights and predictive analytics.
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+[🌐 Live Demo](https://wealth-wise-ten.vercel.app/) • [📂 GitHub Repo](https://github.com/Avii-KS/WealthWise)
 
-### Make sure to create a `.env` file with following variables -
+---
 
-```
-DATABASE_URL=
-DIRECT_URL=
+## 📌 Core Features
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+### 🔍 AI-Powered Insights
+Get smart recommendations based on your spending habits and real-time financial patterns.
 
-GEMINI_API_KEY=
+### 📈 Smart Predictions
+Predict future expenses using AI models trained on your transaction history.
 
-RESEND_API_KEY=
+### 🛡️ Fraud Detection
+Automatically detect and flag suspicious transactions using anomaly detection algorithms.
 
-ARCJET_KEY=
-```
+### 🕒 Real-Time Analysis
+Track every transaction live with interactive, real-time dashboards and smart logs.
+
+---
+
+## 🎯 Everything You Need to Master Your Finances
+
+- ✅ **Advanced Analytics**  
+  Visualize your financial health using charts, graphs, and AI-generated reports.
+
+- 📷 **Smart Receipt Scanner** *(Coming Soon)*  
+  Upload receipts and extract transaction data with high-accuracy OCR.
+
+- 🧠 **Budget Planning Assistant**  
+  Create intelligent, adaptable budgets based on your financial behavior.
+
+- 💳 **Multi-Account & Credit Card Management**  
+  Link and monitor multiple accounts in one unified dashboard.
+
+- 💱 **Multi-Currency Support**  
+  Real-time conversion and tracking of transactions in different currencies.
+
+- 📬 **Automated Insights**  
+  Stay informed with real-time, AI-curated financial recommendations and alerts.
+
+---
+
+## 🔧 How It Works
+
+### 1️⃣ Create Your Account  
+Sign up securely in minutes with our Clerk-powered authentication.
+
+### 2️⃣ Track Your Spending  
+Connect accounts and let AI categorize and track transactions in real-time.
+
+### 3️⃣ Get AI Insights  
+Sit back and receive intelligent, actionable advice to optimize your finances.
+
+---
+
+## 📊 Tech Stack
+
+- **Frontend:** Next.js, Tailwind CSS
+- **AI/ML Engine:** TensorFlow.js, Gemini API
+- **Backend & Auth:** Clerk, Supabase/PostgreSQL (via DATABASE_URL)
+- **Utilities:** Resend API (emails), CSV Export, Chart.js for data viz
+- **Deployment:** Vercel (99.9% uptime)
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots or a short GIF walkthrough here)*  
+> Home Dashboard • Budget Page • Insights Panel • Receipt Upload (Mock)
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Avii-KS/WealthWise.git
+cd WealthWise
