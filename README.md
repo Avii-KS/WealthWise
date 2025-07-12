@@ -70,12 +70,31 @@ This project demonstrates expertise in building scalable, production-ready appli
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-| Dashboard                                                      | AI Assistant                                                      | Insights                                                      | Budget                                                      | Transactions                                                      |
-| -------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![Dashboard](Screenshots/Screenshot%202025-07-12%20184910.png) | ![AI Assistant](Screenshots/Screenshot%202025-07-12%20184935.png) | ![Insights](Screenshots/Screenshot%202025-07-12%20184953.png) | ![Budget](Screenshots/Screenshot%202025-07-12%20200503.png) | ![Transactions](Screenshots/Screenshot%202025-07-12%20200545.png) |
+> Explore the platform visually:
 
+**Home Dashboard**
+
+<img src="Screenshots/Screenshot%202025-07-12%20184910.png" alt="Home Dashboard" width="800" />
+
+**AI Assistant**
+
+<img src="Screenshots/Screenshot%202025-07-12%20184935.png" alt="AI Assistant" width="800" />
+
+**Insights Panel**
+
+<img src="Screenshots/Screenshot%202025-07-12%20184953.png" alt="Insights Panel" width="800" />
+
+**Budget Page**
+
+<img src="Screenshots/Screenshot%202025-07-12%20200503.png" alt="Budget Page" width="800" />
+
+**Transactions Page**
+
+<img src="Screenshots/Screenshot%202025-07-12%20200545.png" alt="Transactions Page" width="800" />
+
+---
 ---
 
 ## 🛠️ Tech Stack
